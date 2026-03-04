@@ -25,23 +25,3 @@ int main () {
     printf("A opção é %c", opcao);
 
 }
-
-
-
-
-
-
-
-
-/*
-int main () {
-    int idade = 18;
-    float altura = 1.8;
-    char sexo = 'M';
-    char nome[20] = "Fábio";
-
-    printf("A idade do %s é: %d\n", nome, idade);
-    printf("A altura é: %.2f\n", altura);
-    printf("O genêro é: %c\n", sexo);
-}
-*/
